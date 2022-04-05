@@ -1,0 +1,37 @@
+.page1 {
+    width: 50%;
+    height: 250px;
+    background: chocolate;
+    margin-left: 25%;
+    margin-top: 10px;
+    padding-top: 1px;
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background: darkorchid;
+
+
+}
+.father {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+.page2 {
+    width: 50%;
+    height: 200px;
+    background: darkolivegreen;
+    margin-left: 25%;
+    margin-top: 10px;
+    padding-top: 1px;
+}
+h2 {
+    margin-top: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Microsoft Himalaya";
+    font-size: 30px;
+}
